@@ -1,14 +1,10 @@
 github_users:
-  - concept-inversion
+  - morshed-ali
 
 repo_description_lines_max: 3
 
 github_repos:
-  - concept-inversion/C-SAW
-  - concept-inversion/H-INDEX_Triangle_Counting
-  - concept-inversion/GPU-accelerated-ML-simulation
-  - lingda-li/simnet
-  - wzbxpy/TRUST
-  - concept-inversion/Recommendation-System
-
+  - morshed-ali/AI-ML-In-Healthcare
+  - morshed-ali/Competitive-Programming
+ 
 
