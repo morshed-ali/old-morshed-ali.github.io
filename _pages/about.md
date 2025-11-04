@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor @ Bellini College of AI, Cybersecurity and Computing | USF
+subtitle: Lecturer @ Computer Science and Engineering | Uttara Univeristy, Dhaka, Bangladesh
 
 profile:
   align: right
-  image: headshot.jpeg
+  image: Biodata.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> ENB 325 </p>
