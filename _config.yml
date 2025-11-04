@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Santosh
+first_name: Md Morshed
 middle_name: 
-last_name: Pandey
-email: santosh[.]pandey[at]rutgers.edu
+last_name: Ali
+email: morshedali.cse.jnu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -78,7 +78,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: concept-inversion
+github_username: morshed-ali
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id:  # Inspire HEP author ID
@@ -231,8 +231,8 @@ exclude:
   - docker-compose.yml
   - docker-compose-slim.yml
   - FAQ.md
-  - Gemfile
-  - Gemfile.lock
+  # - Gemfile
+  # - Gemfile.lock
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
